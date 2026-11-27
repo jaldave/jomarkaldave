@@ -129,7 +129,7 @@ export const person = {
   name: "Jomark Aldave",
   photo: "/founder.jpg",
   // Fill these in before deploying. Empty values are hidden.
-  email: "",
+  email: "aldavejomark89@gmail.com",
   linkedinUrl: "https://www.linkedin.com/in/jomark-aldave-439ba7a2",
   githubUrl: "https://github.com/jaldave",
   studio: { name: "Aldavix", url: "https://aldavix.com" },
